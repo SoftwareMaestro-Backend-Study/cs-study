@@ -58,10 +58,19 @@ ex) [1주차] 프로세스 vs 스레드
 
 ## 📝 Log
 
+### 📌 Data Structure
+
+- [해시(Hash)](Data%20Structure/Hash)
+
 ### 📌 Database
 
 - [인덱스(Index)](Database/Index)
+- [RDB vs NoSQL](Database/RDB%20vs%20NoSQL)
 
 ### 📌 Network
 
 - [HTTP](Network/HTTP)
+
+### 📌 Operating System
+
+- [Process vs Thread](Operating%20System/Process%20vs%20Thread)
