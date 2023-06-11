@@ -39,9 +39,9 @@ ex) [OS] 프로세스 vs 스레드 - 홍길동
 
 ### PR
 
-> [주차] 키워드 - 작성자
+> [주차] 작성자
 
-ex) [1주차] 프로세스 vs 스레드 - 홍길동
+ex) [1주차] 홍길동
 
 - 분야는 라벨로 표기
 - 제출 시 Issue 연결
@@ -58,10 +58,19 @@ ex) [1주차] 프로세스 vs 스레드
 
 ## 📝 Log
 
+### 📌 Data Structure
+
+- [해시(Hash)](Data%20Structure/Hash)
+
 ### 📌 Database
 
 - [인덱스(Index)](Database/Index)
+- [RDB vs NoSQL](Database/RDB%20vs%20NoSQL)
 
 ### 📌 Network
 
 - [HTTP](Network/HTTP)
+
+### 📌 Operating System
+
+- [Process vs Thread](Operating%20System/Process%20vs%20Thread)
