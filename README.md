@@ -66,10 +66,12 @@ ex) [1주차] 프로세스 vs 스레드
 
 - [인덱스(Index)](Database/Index)
 - [RDB vs NoSQL](Database/RDB%20vs%20NoSQL)
+- [트랜잭션(Transaction)](Database/Transaction)
 
 ### 📌 Network
 
 - [HTTP](Network/HTTP)
+- [ARP](Network/ARP)
 
 ### 📌 Operating System
 
