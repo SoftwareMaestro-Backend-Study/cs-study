@@ -44,3 +44,12 @@
     
 </div>
 </details>
+
+
+<details>
+<summary>7. 프로세스와 스레드의 컨텍스트 스위칭 차이를 알려주세요.</summary>
+<div>
+    
+</div>
+</details>
+
