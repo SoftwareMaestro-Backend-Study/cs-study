@@ -58,6 +58,10 @@ ex) [1주차] 프로세스 vs 스레드
 
 ## 📝 Log
 
+### 📌 Algorithm
+
+- [다익스트라(Hash)](Algorithm/Dijkstra)
+
 ### 📌 Data Structure
 
 - [해시(Hash)](Data%20Structure/Hash)
@@ -76,3 +80,4 @@ ex) [1주차] 프로세스 vs 스레드
 ### 📌 Operating System
 
 - [Process vs Thread](Operating%20System/Process%20vs%20Thread)
+- [가상 메모리(Virtual Memory)](Operating%20System/Virtual%20Memory)
