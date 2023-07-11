@@ -71,6 +71,7 @@ ex) [1주차] 프로세스 vs 스레드
 - [인덱스(Index)](Database/Index)
 - [RDB vs NoSQL](Database/RDB%20vs%20NoSQL)
 - [트랜잭션(Transaction)](Database/Transaction)
+- [Clustering vs Reflication vs Shading](Database/Clustering%20vs%20Reflication%20vs%20Shading)
 
 ### 📌 Network
 
@@ -82,3 +83,7 @@ ex) [1주차] 프로세스 vs 스레드
 
 - [Process vs Thread](Operating%20System/Process%20vs%20Thread)
 - [가상 메모리(Virtual Memory)](Operating%20System/Virtual%20Memory)
+
+### 📌 Java
+
+- [JVM](Java/JVM)
