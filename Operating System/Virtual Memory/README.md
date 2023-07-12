@@ -24,3 +24,15 @@
     <summary>답변 보기</summary>
 
     </details>
+
+5. Belady’s anomaly에 대해서 설명하시오.
+    <details>
+    <summary>답변 보기</summary>
+
+    </details>
+    
+6. (번외) 내부 단편화, 외부 단편화에 대해서 설명하시오.
+    <details>
+    <summary>답변 보기</summary>
+
+    </details>
