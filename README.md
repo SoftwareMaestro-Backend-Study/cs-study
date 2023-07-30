@@ -73,12 +73,14 @@ ex) [1주차] 프로세스 vs 스레드
 - [트랜잭션(Transaction)](Database/Transaction)
 - [Clustering vs Reflication vs Shading](Database/Clustering%20vs%20Reflication%20vs%20Shading)
 - [Lock](Database/Lock)
+- [Distributed Lock](Database/Distributed%20Lock)
 
 ### 📌 Network
 
 - [HTTP](Network/HTTP)
 - [ARP](Network/ARP)
 - [TCP vs UDP](Network/TCP%20vs%20UDP)
+- [DNS](Network/DNS)
 
 ### 📌 Operating System
 
