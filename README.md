@@ -87,9 +87,14 @@ ex) [1주차] 프로세스 vs 스레드
 - [Process vs Thread](Operating%20System/Process%20vs%20Thread)
 - [가상 메모리(Virtual Memory)](Operating%20System/Virtual%20Memory)
 - [Race Condition, Critical Section](Operating%20System/Race%20Condition,%20Critical%20Section)
+- [CPU Scheduling](Operating%20System/CPU%20Scheduling)
 
 ### 📌 Java
 
 - [JVM](Java/JVM)
 - [Synchronization](Java/Synchronization)
 - [Reflection](Java/Reflection)
+
+### 📌 Web
+
+- [CSRF & XSS](Web/CSRF%20&%20XSS)
