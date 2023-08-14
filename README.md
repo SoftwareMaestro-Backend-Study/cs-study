@@ -81,6 +81,7 @@ ex) [1주차] 프로세스 vs 스레드
 - [ARP](Network/ARP)
 - [TCP vs UDP](Network/TCP%20vs%20UDP)
 - [DNS](Network/DNS)
+- [IP](Network/IP)
 
 ### 📌 Operating System
 
@@ -94,6 +95,10 @@ ex) [1주차] 프로세스 vs 스레드
 - [JVM](Java/JVM)
 - [Synchronization](Java/Synchronization)
 - [Reflection](Java/Reflection)
+
+### 📌 Spring
+
+- [JDK Dynamic Proxy & CGLIB](Spring/JDK%20Dynamic%20Proxy%20&%20CGLIB)
 
 ### 📌 Web
 
